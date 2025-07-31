@@ -33,17 +33,17 @@ Logistics teams can then optimize routes, reduce costs, improve efficiency, and 
 
 ## FEATURES
 
-1. ###Key Performance Indicators (KPIs):### At-a-glance metrics for total deliveries, total fuel cost, total breakdown cost, and average delivery time.
+1. ###Key Performance Indicators (KPIs): At-a-glance metrics for total deliveries, total fuel cost, total breakdown cost, and average delivery time.
 
-2. ###Operational Analysis:### Detailed insights into delivery performance, including the number of deliveries and average delivery time broken down by vehicle type and time of day.
+2. ###Operational Analysis: Detailed insights into delivery performance, including the number of deliveries and average delivery time broken down by vehicle type and time of day.
 
-3. ###Cost Management:### A comprehensive analysis of fuel costs and breakdown costs, allowing users to identify cost drivers and make data-driven decisions to reduce expenses.
+3. ###Cost Management: A comprehensive analysis of fuel costs and breakdown costs, allowing users to identify cost drivers and make data-driven decisions to reduce expenses.
 
-4. ###Vehicle Performance Tracking:### The ability to compare vehicle types based on key metrics such as fuel consumption, delivery volume, and breakdown frequency.
+4. ###Vehicle Performance Tracking: The ability to compare vehicle types based on key metrics such as fuel consumption, delivery volume, and breakdown frequency.
 
-5. ###Interactive Visualizations:### Dynamic charts and graphs that display trends in fuel consumption, breakdowns, and costs, making the data easy to understand.
+5. ###Interactive Visualizations: Dynamic charts and graphs that display trends in fuel consumption, breakdowns, and costs, making the data easy to understand.
 
-6. ###Filter and Slicer Functionality:### Interactive filters (e.g., by month, vehicle type) that allow users to drill down into specific data subsets and gain customized insights.
+6. ###Filter and Slicer Functionality: Interactive filters (e.g., by month, vehicle type) that allow users to drill down into specific data subsets and gain customized insights.
 
 ---
 
