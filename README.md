@@ -85,6 +85,8 @@ No external data sources or complex relationships are involved, making the file 
 
 ---
 
+![DASHBOARD](https://github.com/isaacquayson/FLEET-PERFORMANCE-AND-DELIVERY-OPTIMIZATION-PROJECT/blob/main/Screenshot%202025-08-07%20210041.png)
+
 ## RESULTS AND INSIGHTS
 
 1. Scooters demonstrated the highest delivery efficiency, achieving the shortest average delivery time compared to motorcycles and vans.
