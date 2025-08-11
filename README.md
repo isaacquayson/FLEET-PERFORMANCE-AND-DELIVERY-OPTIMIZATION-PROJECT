@@ -1,4 +1,4 @@
-<img width="1281" height="40" alt="image" src="https://github.com/user-attachments/assets/70a9e886-fddc-4b64-a545-6e8e4f86298f" /># FLEET-PERFORMANCE-AND-DELIVERY-OPTIMIZATION-PROJECT
+# FLEET-PERFORMANCE-AND-DELIVERY-OPTIMIZATION-PROJECT
 
 ## OVERVIEW
 This Excel-based dashboard analyzes delivery operations using key metrics like fuel consumption, costs, delivery times, and breakdowns.  
@@ -107,10 +107,10 @@ No external data sources or complex relationships are involved, making the file 
 
 ## RECOMMENDATIONS
 
-- 1. Implement a Preventive Maintenance Schedule for Motorcycles because, Motorcycles have the highest breakdown frequency and cover the longest distances.																			
-- 2. Prioritize Scooters for High-Volume, Time-Sensitive Deliveries. Scooters show highest delivery efficiency (fastest delivery times).																			
-- 3. Monitor and Minimize Preparation Time to Reduce Delivery Delays. There's a positive correlation between preparation time and delivery time.																			
-- 4. Introduce a real-time breakdown alert and response system.																			
+1. Implement a Preventive Maintenance Schedule for Motorcycles because, Motorcycles have the highest breakdown frequency and cover the longest distances.																			
+2. Prioritize Scooters for High-Volume, Time-Sensitive Deliveries. Scooters show highest delivery efficiency (fastest delivery times).																			
+3. Monitor and Minimize Preparation Time to Reduce Delivery Delays. There's a positive correlation between preparation time and delivery time.																			
+4. Introduce a real-time breakdown alert and response system.																			
 
 ---
 
