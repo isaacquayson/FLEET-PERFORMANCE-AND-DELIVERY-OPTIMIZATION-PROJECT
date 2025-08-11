@@ -7,9 +7,9 @@ The goal is to reduce operational costs, boost delivery efficiency, and enhance 
 
 ---
 
-## GOAL
+## OBJECTIVES 
 
-The goal of this project is to transform raw delivery data into a powerful, actionable Excel dashboard.  
+The objectives of this project is to transform raw delivery data into a powerful, actionable Excel dashboard.  
 By visualizing key metrics like total deliveries, fuel costs, and average delivery times, it enables deeper operational insights.  
 Logistics teams can then optimize routes, reduce costs, improve efficiency, and enhance overall service reliability.
 
@@ -49,8 +49,6 @@ Logistics teams can then optimize routes, reduce costs, improve efficiency, and 
 
 ## TECHNICAL DETAILS
 
-## Technology Stack
-
 This project is built and optimized using **Microsoft Excel**, leveraging its powerful data analysis and visualization features to create an interactive and insightful dashboard.
 
 ### Tools & Features Used
@@ -75,13 +73,6 @@ The dashboard is powered by a flat dataset imported from `delivery_data.csv`, or
 - `Fuel_Cost`: Cost of fuel used  
 - `Breakdown`: Indicator of whether a breakdown occurred  
 - `Breakdown_Cost`: Associated cost if a breakdown occurred  
-
----
-
-## Data Model
-
-The project uses a **simple, self-contained data model**. All analysis and visualizations are directly based on the single master data table.  
-No external data sources or complex relationships are involved, making the file **easy to manage, portable, and efficient**.
 
 ---
 
